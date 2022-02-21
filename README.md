@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thevyomonaut
-- 👀 I’m interested in exploring computer science, starting from the the very basic DSA!
+- 👀 I’m interested in exploring data science and how it can aid in Economics and Development
 - 🌱 I’m currently learning DSA and applying it using Python, C and C++.
 - 📫 I'm @thevyomonaut everywhere!
 <!---
