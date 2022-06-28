@@ -1,8 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-![catastrophe-catvader](https://user-images.githubusercontent.com/92441293/176219044-49a18836-8157-4db3-8ae4-3fa92024abe8.gif)
-
-<!--- use image align --->
+<p align="center"><img class="center" src="https://user-images.githubusercontent.com/92441293/176219044-49a18836-8157-4db3-8ae4-3fa92024abe8.gif" height="250" width="200"></p>
 
 <h2 align="center">I'm Sanghamitra De, welcome to my GitHub! :vulcan_salute:</h2>
 
