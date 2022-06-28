@@ -4,7 +4,7 @@
 
 <h2 align="center">I'm Sanghamitra De, welcome to my GitHub! :vulcan_salute:</h2>
 
-<p> :books: I am currently pursuing a Bachelors course in Electrical Engineering at the Indian Institute of Engineering Science and Technology, Shibpur (Batch of 2025). </p>
+<p> :books: I am currently pursuing a Bachelors course in Electrical Engineering at the Indian Institute of Engineering Science and Technology, Shibpur (Batch of 2025). I'm happy to tell you that I am a part of the Women Engineers Mentorship Program from NSE TalentSprint which is supported by Google.</p>
 
 <p> :pen: Here you will find all the files I used to create my projects, and some writeups to my solutions of some programming problems. You'll also find the data files that I have used in some of my projects. </p>
 
@@ -18,7 +18,7 @@
 
 <!--- medium --->
 
-<!--- languages and tools --->
+<!--- languages and tools, insert Grievous gif --->
 
 
 <!---
