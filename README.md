@@ -12,6 +12,8 @@
 
 <p> :envelope_with_arrow: Find me on my social media @thevyomonaut!
 
+<!--- profiles --->
+
 <!--- Enter data about my achievements lmao --->
 
 <!--- medium --->
